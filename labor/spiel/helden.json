@@ -1,0 +1,102 @@
+[
+  {
+    "id": "aschenlaeufer",
+    "name": "Aschenläufer",
+    "rolle": "Bogenschütze",
+    "text": "Ausgewogen. +10 % Krit-Chance.",
+    "schuss": "b9a4ff",
+    "tint": "ffffff",
+    "bild": true,
+    "sued": false
+  },
+  {
+    "id": "zwillingsklinge",
+    "name": "Zwillingsklinge",
+    "rolle": "Zwei Waffen",
+    "text": "Zwei Geschosse je Angriff, jedes mit 60 % Schaden.",
+    "schuss": "d8d2ff",
+    "tint": "ffffff",
+    "bild": true,
+    "sued": true
+  },
+  {
+    "id": "gruftbrecher",
+    "name": "Gruftbrecher",
+    "rolle": "Schwerer Ritter",
+    "text": "+80 % Schaden, aber 35 % langsamer, +20 Leben.",
+    "schuss": "ffb36b",
+    "tint": "d7a37a",
+    "bild": true,
+    "sued": false
+  },
+  {
+    "id": "giftmischerin",
+    "name": "Giftmischerin",
+    "rolle": "Alchemistin",
+    "text": "Jeder Treffer vergiftet. 10 % weniger Schaden.",
+    "schuss": "8fe36a",
+    "tint": "9fe39a",
+    "bild": true,
+    "sued": false
+  },
+  {
+    "id": "frostweberin",
+    "name": "Frostweberin",
+    "rolle": "Eismagierin",
+    "text": "Treffer verlangsamen. Geschosse durchschlagen einen Gegner.",
+    "schuss": "9fe3ff",
+    "tint": "9fd0ff",
+    "bild": true,
+    "sued": false
+  },
+  {
+    "id": "funkenschmied",
+    "name": "Funkenschmied",
+    "rolle": "Feuermagier",
+    "text": "Treffer entzünden. +15 % Angriffstempo.",
+    "schuss": "ff9a4d",
+    "tint": "ffb08a",
+    "bild": true,
+    "sued": false
+  },
+  {
+    "id": "schattentaenzerin",
+    "name": "Schattentänzerin",
+    "rolle": "Dolche",
+    "text": "+20 % Ausweichen, +15 % Krit-Chance, 20 weniger Leben.",
+    "schuss": "e0a0ff",
+    "tint": "c7a0ff",
+    "bild": true,
+    "sued": false
+  },
+  {
+    "id": "waechter",
+    "name": "Wächter",
+    "rolle": "Schildträger",
+    "text": "+50 Leben, Schutzschild in jedem Raum, 15 % langsamer.",
+    "schuss": "bcd3ff",
+    "tint": "b8c4d8",
+    "bild": true,
+    "sued": false
+  },
+  {
+    "id": "falknerin",
+    "name": "Falknerin",
+    "rolle": "Jägerin mit Falke",
+    "text": "Ein Falke kreist als Begleiter. +10 % Angriffstempo.",
+    "schuss": "ffe08a",
+    "tint": "ffd9a0",
+    "bild": true,
+    "sued": false
+  },
+  {
+    "id": "seelenbinder",
+    "name": "Seelenbinder",
+    "rolle": "Nekromant",
+    "text": "Lebensraub und ein kreisender Geist. 20 weniger Leben.",
+    "schuss": "7ff0d0",
+    "tint": "a0f0e0",
+    "bild": true,
+    "sued": false
+  }
+]

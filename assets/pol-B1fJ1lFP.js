@@ -1,0 +1,1 @@
+import{w as e}from"./index-BFfrKlLi.js";import{POL_KAPITEL as a}from"./index-DdmRQY-F.js";import"./start-BrvnXvko.js";import"./chess-BF46Hdn7.js";function n(){const o=a.flatMap(i=>i.lektionen.map(t=>({id:`pol:${t.id.replace(/^pol-/,"")}`,kind:"fact",variant:"fact",title:t.title,region:i.region,data:t})));return e(o)}const f={main:n()};export{f as POL_PFADE};
